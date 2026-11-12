@@ -1,0 +1,7 @@
+/dist/
+/terraform-provider-jumpserver
+*.tfstate*
+*.tfplan
+.terraform/
+*.tfvars
+.env
